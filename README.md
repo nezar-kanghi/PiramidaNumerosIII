@@ -1,0 +1,2 @@
+En este ejercicio generamos una pirdamide numero apartir de un numero entero introducido por el usuario y guarda el resultado en un fichero salida.txt.
+La clase Main solicita el número por teclado y coordina el proceso utilizando dos clases auxiliares: GenerarLineas y EscribirFichero. La clase GenerarLineas construye un ArrayList<String> donde cada posición representa una línea de la pirámideLa clase EscribirFichero recibe esa lista y la escribe en el archivo usando BufferedWriter, añadiendo cada línea con un salto de línea.
